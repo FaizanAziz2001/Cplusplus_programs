@@ -1,0 +1,4 @@
+Time taken: 5.64636 s
+Time taken: 5646.36 ms
+For a 2MB file: 
+Number of operations: 6821576
