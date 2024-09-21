@@ -1,0 +1,28 @@
+3
+Faizan Aziz
+20035
+BSCS
+18
+3.54
+M
+
+Ali
+20037
+BSEE
+19
+2.35
+M
+
+Zeko
+20420
+BSCE
+21
+3.12
+F
+
+John Cena
+20025
+BSCE
+23
+1.92
+M
