@@ -1,0 +1,4 @@
+Name                          Item name                     Amount    
+Fasih                         Frappe                                 2
+Abdullah                      Black Coffee                           5
+Ahmed                         Mochaccino                            30

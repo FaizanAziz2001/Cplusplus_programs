@@ -1,0 +1,20 @@
+Name Item Name                     In Stock       Small    Medium     Large
+1    Latte                         85               120       140       180
+2    Americano                     75               110       120       140
+3    Cappachino                    70               110       140       170
+4    Black Coffee                  75               130       170       200
+5    Espresso                      80               120       150       180
+6    Flat White                    90               110       140       170
+7    Mochaccino                    70                90       110       130
+8    Irish Coffee                  80               130       170       220
+9    Affogato                      90               150       200       250
+10   Cold Brew Coffee              70               110       140       170
+11   Lungo                         100               90        11       110
+12   Ristretto                     75               140       180       220
+13   Frappe                        90               110       140       180
+14   Whitte                        40               220       110        20
+15   ass                           18                22        69       420
+16                                 0                  0         0         0
+17                                 0                  0         0         0
+18                                 0                  0         0         0
+19                                 0                  0         0         0
